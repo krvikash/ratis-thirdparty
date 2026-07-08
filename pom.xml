@@ -22,7 +22,7 @@
   </parent>
   <artifactId>ratis-thirdparty</artifactId>
   <groupId>org.apache.ratis</groupId>
-  <version>1.0.11</version>
+  <version>1.0.11-e.1</version>
   <name>Apache Ratis Thirdparty</name>
   <packaging>pom</packaging>
   <description>Thirdparty dependencies for Apache Ratis</description>
@@ -70,7 +70,7 @@
     <!--Version of grpc to be shaded -->
     <shaded.grpc.version>1.77.1</shaded.grpc.version>
     <!--Version of Netty to be shaded -->
-    <shaded.netty.version>4.1.130.Final</shaded.netty.version>
+    <shaded.netty.version>4.1.135.Final</shaded.netty.version>
     <!--Version of dropwizard to be shaded -->
     <shaded.dropwizard.version>4.2.21</shaded.dropwizard.version>
 
